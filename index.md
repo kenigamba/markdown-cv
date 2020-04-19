@@ -1,9 +1,6 @@
 ---
-layout: cv
-title: KENNETH IGAMBA CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kenneth Igamba
+Computer Science Graduate.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
